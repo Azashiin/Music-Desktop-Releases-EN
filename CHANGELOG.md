@@ -6,7 +6,7 @@ What is new and improved in Music Desktop.
 
 This update makes the small everyday things feel more natural: your settings, mini player, and updates are right where you expect them.
 
-- Settings now feel like part of Music Desktop: they open directly over your music without interrupting what you are listening to.
+- Settings have been redesigned with a clearer, better-organized interface, so every option is easier to find.
 - The mini player is always one click away from the top bar.
 - You can check for a new version, install it, and see what changed in one place.
 - Your Discord activity stays personal: views and likes are hidden by default, but you can choose to show them.
