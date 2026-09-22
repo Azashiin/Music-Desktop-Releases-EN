@@ -1,59 +1,69 @@
 # Changelog
 
-Les nouveautés et améliorations de Music Desktop.
+What is new and improved in Music Desktop.
 
-## 1.2.6 — Language Update — 21 septembre 2026
+## 1.2.7 — Simpler settings — September 22, 2026
 
-Music Desktop est maintenant disponible en français et en anglais.
+This release brings settings together and makes the controls you need easier to find.
 
-- Choisissez la langue que vous préférez dans les paramètres.
-- Après le redémarrage, les menus, le mini-lecteur, les notifications et les paramètres suivent votre choix.
-- Choisissez la langue de Music Desktop pendant l’installation, puis changez-la à tout moment depuis les paramètres.
+- Settings now open directly over your music, with clear sections for the app, Discord, updates, and useful information.
+- The top bar is lighter: the mini player and settings are one click away, with no keyboard shortcut imposed.
+- An **Updates** page lets you check for new versions, install them, and read what changed in the language you selected.
+- Views and likes can now be shown in Discord Rich Presence if you want them; the option is off by default.
+- Settings remain comfortable to use in a small window, with discreet scrolling.
 
-## 1.2.5 — Un mini-lecteur plus vivant — 21 septembre 2026
+## 1.2.6 — Language Update — September 21, 2026
 
-Cette mise à jour rend le mini-lecteur plus agréable à utiliser au quotidien, avec une présentation plus immersive et des commandes plus fiables.
+Music Desktop is now available in French and English.
 
-> Si vous utilisez déjà la version 1.2.4, téléchargez et installez cette version une dernière fois depuis GitHub. Les mises à jour suivantes reprendront ensuite automatiquement.
+- Choose the language you prefer in Settings.
+- After restarting, menus, the mini player, notifications, and settings use your selected language.
+- Choose Music Desktop’s language during installation, then change it whenever you like from Settings.
 
-- Une nouvelle ambiance visuelle : la pochette du morceau anime désormais le fond du mini-lecteur et accompagne les changements de titre.
-- Une lecture plus claire : les commandes ont été revues, le volume reste accessible en un geste et l’accès à la fenêtre principale est plus simple.
-- Une progression enfin fiable : le temps affiché, la barre de lecture et le volume suivent mieux ce qui se passe réellement dans YouTube Music, même à l’enchaînement des titres.
-- Une présence Discord plus personnelle : lorsque l’option est activée, la pochette du morceau écouté peut s’afficher dans votre activité.
-- Une notification de mise à jour plus discrète et mieux intégrée à l’application.
+## 1.2.5 — A more lively mini player — September 21, 2026
 
-## 1.2.4 — Mises à jour intégrées — 21 septembre 2026
+This update makes the mini player more pleasant to use every day, with a more immersive presentation and more reliable controls.
 
-- Vérification des nouvelles versions directement depuis les paramètres de l’application.
-- Téléchargement, progression et installation après confirmation de l’utilisateur.
-- Chaque paquet de mise à jour est vérifié par signature cryptographique avant son installation.
+> If you are already using version 1.2.4, download and install this version once from GitHub. Future updates will then install automatically.
 
-## 1.2.3 — 20 septembre 2026
+- A new visual atmosphere: track artwork now animates the mini player background and follows track changes.
+- Clearer playback: controls have been refined, volume is available in one gesture, and returning to the main window is easier.
+- Finally reliable progress: displayed time, the progress bar, and volume follow what is actually happening in YouTube Music more closely, even between tracks.
+- More personal Discord activity: when enabled, the artwork for the track you are listening to can appear in your activity.
+- A more discreet update notification that fits better inside the application.
 
-- Ajout d’une option décochée par défaut pour supprimer toutes les données locales lors de la désinstallation.
-- La réparation vérifie désormais l’intégrité des fichiers essentiels et ne restaure que ceux qui sont manquants ou endommagés.
+## 1.2.4 — Built-in updates — September 21, 2026
 
-## 1.2.2 — 20 septembre 2026
+- Check for new versions directly from the application settings.
+- Download, progress, and installation after your confirmation.
+- Every update package is verified with a cryptographic signature before it is installed.
 
-- Nouvel écran de fin d’installation avec des choix cochés par défaut : lancer l’application, créer un raccourci sur le bureau et ajouter Music Desktop à la barre des tâches.
+## 1.2.3 — September 20, 2026
 
-## 1.2.1 — 20 septembre 2026
+- Added an option, off by default, to remove all local data during uninstallation.
+- Repair now checks essential files and restores only those that are missing or damaged.
 
-- Ajout de l’identité visuelle Akyraïs Studio dans l’installateur.
+## 1.2.2 — September 20, 2026
 
-## 1.2.0 — 20 septembre 2026
+- New end-of-installation screen with useful options selected by default: launch the app, create a desktop shortcut, and add Music Desktop to the taskbar.
 
-- Installation pour tous les utilisateurs de l’ordinateur avec demande d’autorisation Windows.
-- Détection des installations existantes, avec options de mise à jour, maintenance et désinstallation.
-- Intégration du logo Music Desktop dans l’application, l’installateur et les raccourcis Windows.
+## 1.2.1 — September 20, 2026
 
-## 1.1.0 — 20 septembre 2026
+- Added Akyraïs Studio’s visual identity to the installer.
 
-- Refonte visuelle de l’installateur pour une présentation plus claire et plus soignée.
-- Illustration d’accueil en haute définition.
+## 1.2.0 — September 20, 2026
 
-## 1.0.0 — 20 septembre 2026
+- Installation for every user of the computer, with a Windows permission prompt.
+- Existing installations are detected, with update, maintenance, and uninstall options.
+- Added the Music Desktop logo to the application, installer, and Windows shortcuts.
 
-- Première version publique de Music Desktop.
-- Fenêtre Windows dédiée à YouTube Music.
-- Mini-lecteur toujours accessible, zone de notification et Discord Rich Presence facultative.
+## 1.1.0 — September 20, 2026
+
+- Visual refresh of the installer for a clearer, more polished presentation.
+- High-definition welcome illustration.
+
+## 1.0.0 — September 20, 2026
+
+- First public release of Music Desktop.
+- Dedicated Windows window for YouTube Music.
+- Always-accessible mini player, notification area, and optional Discord Rich Presence.

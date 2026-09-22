@@ -1,39 +1,41 @@
 # Music Desktop
 
-## YouTube Music à sa place.
+[Version française](https://github.com/Azashiin/Music-Desktop-Releases)
 
-**Music Desktop** est une application Windows dédiée à YouTube Music. Elle s’adresse à celles et ceux qui veulent simplement écouter leur musique sans laisser un navigateur ouvert uniquement pour un onglet de lecture.
+## YouTube Music, in its own place.
 
-Votre musique garde sa propre fenêtre, distincte de votre navigation, de vos recherches et de vos autres activités.
+**Music Desktop** is a Windows application dedicated to YouTube Music. It is for anyone who simply wants to listen without leaving a full browser open just for a music tab.
 
-## Pourquoi Music Desktop ?
+Your music keeps its own window, separate from browsing, searches, and everything else you do.
 
-- Une fenêtre dédiée à YouTube Music, sans onglet de navigateur à garder ouvert.
-- Un mini-lecteur qui reste accessible au-dessus des autres fenêtres.
-- Des commandes simples pour continuer à écouter pendant que vous travaillez, jouez ou discutez.
-- Une intégration Discord facultative pour afficher le morceau en cours d’écoute.
+## Why Music Desktop?
 
-Music Desktop ne prétend pas transformer YouTube Music : l’objectif est simplement de lui donner une place plus naturelle sur Windows, dans une application pensée pour la musique.
+- A dedicated YouTube Music window, without a browser tab to keep open.
+- A mini player that stays accessible above other windows.
+- Simple controls so your music is still within reach while you work, play, or chat.
+- Optional Discord integration to show the track you are listening to.
 
-## Gardez votre RAM pour l’essentiel
+Music Desktop does not try to transform YouTube Music. Its purpose is simply to give it a more natural place on Windows, in an application made for music.
 
-**Adieu aux navigateurs qui dévorent votre RAM juste pour écouter de la musique.** Music Desktop est conçu pour rester léger et n’utiliser qu’une petite part de votre précieuse mémoire vive — autour de **10 Mo** lors de nos essais.
+## Keep your RAM for what matters
 
-La consommation peut varier selon votre ordinateur, la lecture en cours et les applications ouvertes, mais l’idée reste la même : ne pas garder un navigateur complet ouvert uniquement pour écouter de la musique.
+**Say goodbye to browsers consuming your RAM just to play music.** Music Desktop is designed to stay lightweight and use only a small share of your valuable memory — around **10 MB** during our tests.
 
-## Télécharger
+Actual usage can vary with your computer, the track being played, and other running applications. The idea remains the same: do not keep a whole browser open just to listen to music.
 
-➡️ **[Télécharger la dernière version de Music Desktop](https://github.com/Azashiin/Music-Desktop-Releases/releases/latest)**
+## Download
 
-L’installateur est disponible pour Windows 64 bits dans la page de chaque release.
-Après l’installation de la version 1.2.5, les versions suivantes pourront être vérifiées et installées directement depuis les paramètres de Music Desktop.
+➡️ **[Download the latest version of Music Desktop](https://github.com/Azashiin/Music-Desktop-Releases-EN/releases/latest)**
 
-Si vous utilisiez déjà la version 1.2.4, installez simplement la 1.2.5 une dernière fois depuis cette page. Les mises à jour automatiques reprendront ensuite normalement.
+The installer is available for 64-bit Windows from each release page.
+After installing version 1.2.5, later versions can be checked and installed directly from Music Desktop settings.
 
-Consultez le [changelog](CHANGELOG.md) pour découvrir les évolutions de chaque version.
+If you are still using version 1.2.4, install version 1.2.5 once from GitHub. Updates will work normally after that.
 
-## À propos
+See the [changelog](CHANGELOG.md) for every version’s improvements.
 
-Music Desktop est une application indépendante. Elle n’est pas affiliée à YouTube, Google ou Discord. Votre connexion à YouTube Music reste gérée par Google.
+## About
 
-Ce dépôt sert uniquement à publier les versions de Music Desktop : aucun code source de l’application n’y est distribué.
+Music Desktop is an independent application. It is not affiliated with or endorsed by YouTube, Google, or Discord. Your YouTube Music sign-in remains managed by Google.
+
+This repository exists only to distribute Music Desktop releases. No application source code is published here.
