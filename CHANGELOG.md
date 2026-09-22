@@ -2,6 +2,11 @@
 
 What is new and improved in Music Desktop.
 
+## 1.2.8 — Settings stay where they belong — September 22, 2026
+
+- Fixed an issue that kept the Settings window always on top for no reason.
+- You can now choose the app shortcuts.
+
 ## 1.2.7 — Settings that feel simpler — September 22, 2026
 
 This update makes the small everyday things feel more natural: your settings, mini player, and updates are right where you expect them.
