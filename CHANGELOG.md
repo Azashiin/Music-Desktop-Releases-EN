@@ -2,15 +2,15 @@
 
 What is new and improved in Music Desktop.
 
-## 1.2.7 — Simpler settings — September 22, 2026
+## 1.2.7 — Settings that feel simpler — September 22, 2026
 
-This release brings settings together and makes the controls you need easier to find.
+This update makes the small everyday things feel more natural: your settings, mini player, and updates are right where you expect them.
 
-- Settings now open directly over your music, with clear sections for the app, Discord, updates, and useful information.
-- The top bar is lighter: the mini player and settings are one click away, with no keyboard shortcut imposed.
-- An **Updates** page lets you check for new versions, install them, and read what changed in the language you selected.
-- Views and likes can now be shown in Discord Rich Presence if you want them; the option is off by default.
-- Settings remain comfortable to use in a small window, with discreet scrolling.
+- Settings now feel like part of Music Desktop: they open directly over your music without interrupting what you are listening to.
+- The mini player is always one click away from the top bar.
+- You can check for a new version, install it, and see what changed in one place.
+- Your Discord activity stays personal: views and likes are hidden by default, but you can choose to show them.
+- Even in a small window, settings stay easy to browse with discreet scrolling.
 
 ## 1.2.6 — Language Update — September 21, 2026
 
