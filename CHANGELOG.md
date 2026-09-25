@@ -2,6 +2,16 @@
 
 What is new and improved in Music Desktop.
 
+## 1.2.9 — Easier every day — September 25, 2026
+
+- Music Desktop can start with Windows, opening its window or staying in the background.
+- Choose whether the app closes or keeps running when you close its window.
+- Shortcuts work even when you are using another app.
+- The mini player remembers where you placed it and whether “Always on top” is on.
+- If Music Desktop is already open, launching it again shows its window instead of opening a second one.
+- Music Desktop now appears in the Start menu.
+- The YouTube Music scrollbar is no longer visible.
+
 ## 1.2.8 — Settings stay where they belong — September 22, 2026
 
 - Fixed an issue that kept the Settings window always on top for no reason.
